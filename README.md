@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aarthi
 
-A passionate 4th-year **Data Science** student with a strong drive to leverage **AI, Machine Learning**, **Deep Learning** and **advanced technologies** to build impactful, data-driven solutions. I love solving real-world problems through innovation, analytics, and code.
+A passionate 5th-year **Data Science** student with a strong drive to leverage **AI, Machine Learning**, **Deep Learning** and **advanced technologies** to build impactful, data-driven solutions. I love solving real-world problems through innovation, analytics, and code.
 
 # 👩‍💻 About Me
 
